@@ -3,4 +3,4 @@ project(poo1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(poo1 main.cpp)
+add_executable(poo1 main.cpp line.h point.h)
