@@ -55,6 +55,18 @@ build CMakeFiles/poo1.dir/main.cpp.o: CXX_COMPILER__poo1_Debug /home/shazam/CLio
   OBJECT_DIR = CMakeFiles/poo1.dir
   OBJECT_FILE_DIR = CMakeFiles/poo1.dir
 
+build CMakeFiles/poo1.dir/Robot.cpp.o: CXX_COMPILER__poo1_Debug /home/shazam/CLionProjects/poo1/Robot.cpp || cmake_object_order_depends_target_poo1
+  DEP_FILE = CMakeFiles/poo1.dir/Robot.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/poo1.dir
+  OBJECT_FILE_DIR = CMakeFiles/poo1.dir
+
+build CMakeFiles/poo1.dir/Person.cpp.o: CXX_COMPILER__poo1_Debug /home/shazam/CLionProjects/poo1/Person.cpp || cmake_object_order_depends_target_poo1
+  DEP_FILE = CMakeFiles/poo1.dir/Person.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/poo1.dir
+  OBJECT_FILE_DIR = CMakeFiles/poo1.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target poo1
@@ -63,7 +75,7 @@ build CMakeFiles/poo1.dir/main.cpp.o: CXX_COMPILER__poo1_Debug /home/shazam/CLio
 #############################################
 # Link the executable poo1
 
-build poo1: CXX_EXECUTABLE_LINKER__poo1_Debug CMakeFiles/poo1.dir/main.cpp.o
+build poo1: CXX_EXECUTABLE_LINKER__poo1_Debug CMakeFiles/poo1.dir/main.cpp.o CMakeFiles/poo1.dir/Robot.cpp.o CMakeFiles/poo1.dir/Person.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/poo1.dir
   POST_BUILD = :

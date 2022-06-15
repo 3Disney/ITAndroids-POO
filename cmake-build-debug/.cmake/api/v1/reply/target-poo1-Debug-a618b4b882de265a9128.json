@@ -49,7 +49,9 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				3,
+				5
 			]
 		}
 	],
@@ -82,7 +84,9 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				3,
+				5
 			]
 		},
 		{
@@ -90,7 +94,9 @@
 			"sourceIndexes" : 
 			[
 				1,
-				2
+				2,
+				4,
+				6
 			]
 		}
 	],
@@ -110,6 +116,28 @@
 		{
 			"backtrace" : 1,
 			"path" : "point.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Robot.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Robot.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Person.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Person.h",
 			"sourceGroupIndex" : 1
 		}
 	],
