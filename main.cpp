@@ -1,6 +1,7 @@
 #include <iostream>
 #include "line.h"
 #include "point.h"
+#include "Person.h"
 
 using namespace std;
 
