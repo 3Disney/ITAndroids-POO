@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.22"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "poo1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-poo1-Debug-a618b4b882de265a9128.json",
+					"jsonFile" : "target-poo1-Debug-35463d92f67be0d20ccd.json",
 					"name" : "poo1",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/shazam/CLionProjects/poo1/cmake-build-debug",
-		"source" : "/home/shazam/CLionProjects/poo1"
+		"build" : "D:/CES-10/Comp androids/ITAndroids-POO/cmake-build-debug",
+		"source" : "D:/CES-10/Comp androids/ITAndroids-POO"
 	},
 	"version" : 
 	{

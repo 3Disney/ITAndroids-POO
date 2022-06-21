@@ -5,6 +5,18 @@
 #ifndef POO1_POINT_H
 #define POO1_POINT_H
 
-// add code here
+#include <iostream>
+using namespace std;
+
+class Point {
+public:
+    //constructor and destructor:
+    Point(double x, double y);
+    ~Point();
+private:
+    //variables:
+    double x;
+    double y;
+};
 
 #endif //POO1_POINT_H
