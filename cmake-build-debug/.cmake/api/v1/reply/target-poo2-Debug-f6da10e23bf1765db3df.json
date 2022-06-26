@@ -2,7 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "poo2"
+			"path" : "poo2.exe"
+		},
+		{
+			"path" : "poo2.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -36,6 +39,9 @@
 			[
 				{
 					"fragment" : "-g"
+				},
+				{
+					"fragment" : "-std=gnu++14"
 				}
 			],
 			"language" : "CXX",
@@ -68,12 +74,16 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "poo2",
-	"nameOnDisk" : "poo2",
+	"nameOnDisk" : "poo2.exe",
 	"paths" : 
 	{
 		"build" : ".",

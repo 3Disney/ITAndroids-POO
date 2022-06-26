@@ -8,10 +8,20 @@
 #include "Number.h"
 
 class Complex : Number {
-    Complex sum(Complex a, Complex b);
-    Complex mul(Complex a, Complex b);
-    Complex div(Complex a, Complex b);
-    Complex sub(Complex a, Complex b);
+public:
+
+    //getters
+    double getRe();
+    double get()
+    Complex sum(Complex a, Complex b) override;
+    Complex mul(Complex a, Complex b) override;
+    Complex div(Complex a, Complex b) override;
+    Complex sub(Complex a, Complex b) override;
+
+private:
+    double _re; //real
+    double _im; //imaginary
+
 };
 
 #endif //POO2_COMPLEX_H
