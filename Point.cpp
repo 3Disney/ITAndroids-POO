@@ -3,8 +3,8 @@
 //
 #include "point.h"
 Point:: Point(double x, double y){
-    this->x = x;
-    this->y = y;
+    this->_x = x;
+    this->_y = y;
 }
 
 Point::~Point(){

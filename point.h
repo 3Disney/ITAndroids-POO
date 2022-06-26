@@ -15,8 +15,8 @@ public:
     ~Point();
 private:
     //variables:
-    double x;
-    double y;
+    double _x;
+    double _y;
 };
 
 #endif //POO1_POINT_H
