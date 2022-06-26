@@ -1,4 +1,4 @@
-# Install script for directory: /home/shazam/CLionProjects/poo1
+# Install script for directory: /home/shazam/CLionProjects/poo2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/shazam/CLionProjects/poo1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/shazam/CLionProjects/poo2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

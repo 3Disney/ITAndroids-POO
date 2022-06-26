@@ -1,4 +1,4 @@
-/snap/clion/193/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/193/bin/ninja/linux/ninja -G Ninja -S /home/shazam/CLionProjects/poo1 -B /home/shazam/CLionProjects/poo1/cmake-build-debug
+/snap/clion/198/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/198/bin/ninja/linux/ninja -G Ninja -S /home/shazam/CLionProjects/poo2 -B /home/shazam/CLionProjects/poo2/cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/shazam/CLionProjects/poo1/cmake-build-debug
+-- Build files have been written to: /home/shazam/CLionProjects/poo2/cmake-build-debug

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/shazam/CLionProjects/poo1/cmake-build-debug"
+			"value" : "/home/shazam/CLionProjects/poo2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -103,7 +103,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/193/bin/cmake/linux/bin/cmake"
+			"value" : "/snap/clion/198/bin/cmake/linux/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/193/bin/cmake/linux/bin/cpack"
+			"value" : "/snap/clion/198/bin/cmake/linux/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/193/bin/cmake/linux/bin/ctest"
+			"value" : "/snap/clion/198/bin/cmake/linux/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -411,7 +411,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/193/bin/cmake/linux/bin/ccmake"
+			"value" : "/snap/clion/198/bin/cmake/linux/bin/ccmake"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/shazam/CLionProjects/poo1"
+			"value" : "/home/shazam/CLionProjects/poo2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -643,7 +643,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/snap/clion/193/bin/ninja/linux/ninja"
+			"value" : "/snap/clion/198/bin/ninja/linux/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -831,7 +831,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "poo1"
+			"value" : "poo2"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/193/bin/cmake/linux/share/cmake-3.22"
+			"value" : "/snap/clion/198/bin/cmake/linux/share/cmake-3.22"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1114,7 +1114,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "poo1_BINARY_DIR",
+			"name" : "poo2_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1123,10 +1123,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/shazam/CLionProjects/poo1/cmake-build-debug"
+			"value" : "/home/shazam/CLionProjects/poo2/cmake-build-debug"
 		},
 		{
-			"name" : "poo1_IS_TOP_LEVEL",
+			"name" : "poo2_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1138,7 +1138,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "poo1_SOURCE_DIR",
+			"name" : "poo2_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/shazam/CLionProjects/poo1"
+			"value" : "/home/shazam/CLionProjects/poo2"
 		}
 	],
 	"kind" : "cache",
