@@ -11,8 +11,13 @@ using namespace std;
 class Point {
 public:
     //constructor and destructor:
+    Point(){};
     Point(double x, double y);
     ~Point();
+
+    //getter
+    double getX();
+    double getY();
 private:
     //variables:
     double _x;

@@ -8,5 +8,7 @@ Point:: Point(double x, double y){
 }
 
 Point::~Point(){
-
 }
+
+double Point::getX() {return _x;};
+double Point::getY() {return _y;};

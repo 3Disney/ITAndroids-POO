@@ -21,7 +21,7 @@ int main() {
     p2 = Point(x, y);
     l1 = Line(p1, p2);
 
-    cout << "Type in two points of the second line << endl;
+    cout << "Type in two points of the second line" << endl;
     cin >> x >> y;
     p1 = Point(x, y);
     cin >> x >> y;

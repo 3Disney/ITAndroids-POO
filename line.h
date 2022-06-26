@@ -12,17 +12,22 @@ using namespace std;
 class Line {
 public:
     //constructor and destructor:
-    Line(Point p1, Point p2);
+    Line(Point, Point);
     ~Line();
 
     //functions:
     bool parallelWith(Line l);
     bool isEqualTo(Line l);
     Point intersectWith(Line l);
+
+    //getter:
+    Point getp1(Line l);
+    Point getp2(Line l);
 private:
-    double _p1;
-    double _p2;
+    Point _p1;
+    Point _p2;
     // line: X = p1 + (p2-p1)k
+
 };
 
 
